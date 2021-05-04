@@ -3,4 +3,5 @@ int main()
 {
 	printf("Welcome to Git");
 	printf("Welcome to github");
+	printf("Welcome to waycool");
 }
